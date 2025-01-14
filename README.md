@@ -1,5 +1,7 @@
 # zw-JP-Fub
 日本三次元字库侵权事件。Japanese Fub Workshop Infringement Incident.
+* 欢迎熟悉知识产权的网友提供协助.协助查处此事，正本清源.
+* Welcome netizens familiar with intellectual property to provide assistance.Assist in investigating and resolving this matter, and rectify the root cause
 
 先生，你好
 
